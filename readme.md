@@ -301,6 +301,12 @@ El archivo contiene la definición de la clase `CuentaBancaria` y ejemplos de us
 
 ---
 
+### 📌Reflexion
+
+
+Durante el desarrollo de este proyecto de Python y Programación Orientada a Objetos (POO), tuve la oportunidad de reforzar y aplicar conceptos fundamentales como la encapsulación, el uso de clases y métodos, así como la creación de programas más estructurados y fáciles de mantener.
+Uno de los principales aprendizajes fue comprender cómo organizar el código en funciones y módulos, lo que me permitió desarrollar un sistema más ordenado y reutilizable. Además, aprendí a trabajar con estructuras de datos como diccionarios y listas para gestionar información de manera eficiente.
+
 
 **Este taller es ideal para comprender y practicar el encapsulamiento, uno de los pilares de la Programación Orientada a Objetos en Python.**
 
